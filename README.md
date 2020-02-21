@@ -1,3 +1,3 @@
 # Reactive
 
-Several projects written during my experiments with React
+These projects I made during my experiments with React
