@@ -1,3 +1,3 @@
 # Reactive
 
-Several projects written with the help of React
+Several projects written while I experimented with React
