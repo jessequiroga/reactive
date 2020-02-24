@@ -2,7 +2,7 @@
 
 The app can give you some beats
 
-[](https://gitlab.com/jarceit/reactive/-/raw/master/Metronome/Metronome.png)
+![Picture from the project](https://gitlab.com/jarceit/reactive/-/raw/master/Metronome/Metronome.png)
 
 ----------
 
