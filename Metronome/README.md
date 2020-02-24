@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Metronome
 
-## Available Scripts
+The app can give you some beats
 
-In the project directory, you can run:
+----------
 
-### `npm start`
+To run the app locally, you can type in the project directory: `npm start`
