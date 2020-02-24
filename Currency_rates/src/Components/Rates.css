@@ -1,0 +1,10 @@
+.rates {
+        list-style-type: none;
+        padding: 0;
+        display: inline-flex;
+ }
+
+ .rates-container {
+ 		background-color: #fff;
+ }
+	

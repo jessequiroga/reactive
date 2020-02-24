@@ -1,0 +1,21 @@
+li {
+  background-color: #fff;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Weather-day_in_details {
+	border: solid 1px #000;
+	min-height: 64px;
+	max-height: 256px;
+	min-width: 64px;
+	max-width: 256px;
+	padding: 5px;
+}

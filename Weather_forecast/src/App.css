@@ -1,0 +1,35 @@
+.App {
+  margin: 0 auto;
+  margin-top: 75px;
+  max-width: 500px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-header {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.App-subheader {
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #000;
+}
+
+.city input {
+  box-sizing: border-box;
+  padding: 10px 0;
+  margin-bottom: 15px;
+  background: transparent;
+  width: 100%;
+  padding-right: 80px;
+  font-size: 1em;
+}
+ 
+.city input:focus{
+  outline: 0;
+}
